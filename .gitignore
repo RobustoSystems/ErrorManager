@@ -1,0 +1,27 @@
+# Do not include the following folders in the repository
+
+
+# Do not include the following file types in the repository
+# LabVIEW temporary files
+*.aliases
+*.lvlps
+*.tmp
+
+# TDMS files
+*.tdms 
+*.tdms_index
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
