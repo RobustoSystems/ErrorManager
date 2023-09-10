@@ -44,16 +44,11 @@
 			<Item Name="ComboBox - Convert String To Enum.vi" Type="VI" URL="../Private VIs/ComboBox - Convert String To Enum.vi"/>
 			<Item Name="ComboBox - Init.vi" Type="VI" URL="../Private VIs/ComboBox - Init.vi"/>
 		</Item>
+		<Item Name="Error Display Window" Type="Folder">
+			<Item Name="Error Display Window.lvclass" Type="LVClass" URL="../Error Display Window/Error Display Window.lvclass"/>
+		</Item>
 		<Item Name="Error Log" Type="Folder">
 			<Item Name="Error Log.lvclass" Type="LVClass" URL="../Error Log/Error Log.lvclass"/>
-		</Item>
-		<Item Name="GUI actions" Type="Folder">
-			<Item Name="Close Front Panel.vi" Type="VI" URL="../Private VIs/Close Front Panel.vi"/>
-			<Item Name="Close GUI Option (Enum).ctl" Type="VI" URL="../Private VIs/Close GUI Option (Enum).ctl"/>
-			<Item Name="Close GUI.vi" Type="VI" URL="../Private VIs/Close GUI.vi"/>
-			<Item Name="Init Modal Dialogue GUI.vi" Type="VI" URL="../Private VIs/Init Modal Dialogue GUI.vi"/>
-			<Item Name="Is EXE.vi" Type="VI" URL="../Private VIs/Is EXE.vi"/>
-			<Item Name="Show Front Panel (private).vi" Type="VI" URL="../Private VIs/Show Front Panel (private).vi"/>
 		</Item>
 		<Item Name="MCL (to refactor as static class)" Type="Folder">
 			<Item Name="Init MCL.vi" Type="VI" URL="../Private VIs/Init MCL.vi"/>
@@ -84,9 +79,6 @@
 			<Item Name="Module Data (cluster).ctl" Type="VI" URL="../Private VIs/Module Data (cluster).ctl"/>
 			<Item Name="Read-Unread Status (enum).ctl" Type="VI" URL="../Private VIs/Read-Unread Status (enum).ctl"/>
 			<Item Name="Reported Error (cluster).ctl" Type="VI" URL="../Private VIs/Reported Error (cluster).ctl"/>
-		</Item>
-		<Item Name="New Error Window" Type="Folder">
-			<Item Name="New Error Window.lvlib" Type="Library" URL="../New Error Window/New Error Window.lvlib"/>
 		</Item>
 		<Item Name="One-Second Interval (OSI)" Type="Folder">
 			<Item Name="Anti-Spam Check.vi" Type="VI" URL="../Private VIs/Anti-Spam Check.vi"/>
@@ -124,6 +116,14 @@
 		<Item Name="Throw Errors" Type="Folder">
 			<Item Name="Throw Error (no overwrite).vi" Type="VI" URL="../Private VIs/Throw Error (no overwrite).vi"/>
 			<Item Name="Throw Error - Queue Already Exists.vi" Type="VI" URL="../Private VIs/Throw Error - Queue Already Exists.vi"/>
+		</Item>
+		<Item Name="Window Actions" Type="Folder">
+			<Item Name="Close Front Panel.vi" Type="VI" URL="../Private VIs/Close Front Panel.vi"/>
+			<Item Name="Close Window Option (Enum).ctl" Type="VI" URL="../Private VIs/Close Window Option (Enum).ctl"/>
+			<Item Name="Close Window.vi" Type="VI" URL="../Private VIs/Close Window.vi"/>
+			<Item Name="Init Modal Window.vi" Type="VI" URL="../Private VIs/Init Modal Window.vi"/>
+			<Item Name="Is EXE.vi" Type="VI" URL="../Private VIs/Is EXE.vi"/>
+			<Item Name="Show Front Panel (private).vi" Type="VI" URL="../Private VIs/Show Front Panel (private).vi"/>
 		</Item>
 	</Item>
 	<Item Name="Public API VIs" Type="Folder">
