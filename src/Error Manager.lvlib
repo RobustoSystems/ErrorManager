@@ -39,16 +39,10 @@
 			<Item Name="All Errors Read (library variable).vi" Type="VI" URL="../Private VIs/All Errors Read (library variable).vi"/>
 			<Item Name="Write - All Errors Read.vi" Type="VI" URL="../Private VIs/Write - All Errors Read.vi"/>
 		</Item>
-		<Item Name="Display Order Combo Box" Type="Folder">
-			<Item Name="ComboBox - Convert Enum To String.vi" Type="VI" URL="../Private VIs/ComboBox - Convert Enum To String.vi"/>
-			<Item Name="ComboBox - Convert String To Enum.vi" Type="VI" URL="../Private VIs/ComboBox - Convert String To Enum.vi"/>
-			<Item Name="ComboBox - Init.vi" Type="VI" URL="../Private VIs/ComboBox - Init.vi"/>
-		</Item>
-		<Item Name="Error Display Window" Type="Folder">
-			<Item Name="Error Display Window.lvclass" Type="LVClass" URL="../Error Display Window/Error Display Window.lvclass"/>
-		</Item>
-		<Item Name="Error Log" Type="Folder">
-			<Item Name="Error Log.lvclass" Type="LVClass" URL="../Error Log/Error Log.lvclass"/>
+		<Item Name="Front Panel Objects" Type="Folder">
+			<Item Name="Display Order Combo Box.lvclass" Type="LVClass" URL="../Display Order Combo Box/Display Order Combo Box.lvclass"/>
+			<Item Name="Mark All Errors As Read Button.lvclass" Type="LVClass" URL="../Mark All Errors As Read Button/Mark All Errors As Read Button.lvclass"/>
+			<Item Name="Mark Selected Errors As Read Button.lvclass" Type="LVClass" URL="../Mark Selected Errors As Read Button/Mark Selected Errors As Read Button.lvclass"/>
 		</Item>
 		<Item Name="MCL (to refactor as static class)" Type="Folder">
 			<Item Name="Init MCL.vi" Type="VI" URL="../Private VIs/Init MCL.vi"/>
@@ -127,6 +121,8 @@
 			<Item Name="Is EXE.vi" Type="VI" URL="../Private VIs/Is EXE.vi"/>
 			<Item Name="Show Front Panel.vi" Type="VI" URL="../Private VIs/Show Front Panel.vi"/>
 		</Item>
+		<Item Name="Error Display Window.lvclass" Type="LVClass" URL="../Error Display Window/Error Display Window.lvclass"/>
+		<Item Name="Error Log.lvclass" Type="LVClass" URL="../Error Log/Error Log.lvclass"/>
 	</Item>
 	<Item Name="Public API VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>

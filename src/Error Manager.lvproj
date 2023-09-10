@@ -13,7 +13,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Empty Class Template.lvclass" Type="LVClass" URL="../../../NonRepo/Empty Class Template/Empty Class Template.lvclass"/>
 		<Item Name="Error Manager.lvlib" Type="Library" URL="../Error Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
