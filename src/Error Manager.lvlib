@@ -70,11 +70,13 @@
 			<Item Name="Ensure Error Logs Folder Is Valid.vi" Type="VI" URL="../Private VIs/Ensure Error Logs Folder Is Valid.vi"/>
 			<Item Name="Get Error Type.vi" Type="VI" URL="../Private VIs/Get Error Type.vi"/>
 			<Item Name="Get Row Indexes Of Unread Errors.vi" Type="VI" URL="../Private VIs/Get Row Indexes Of Unread Errors.vi"/>
+			<Item Name="Init GUI Objects.vi" Type="VI" URL="../Private VIs/Init GUI Objects.vi"/>
 			<Item Name="Module Data - Append Newly Handled Error.vi" Type="VI" URL="../Private VIs/Module Data - Append Newly Handled Error.vi"/>
 		</Item>
 		<Item Name="Module Data" Type="Folder">
 			<Item Name="Constant - Blank Module Data.vi" Type="VI" URL="../Private VIs/Constant - Blank Module Data.vi"/>
 			<Item Name="Display Order (enum).ctl" Type="VI" URL="../Private VIs/Display Order (enum).ctl"/>
+			<Item Name="GUI Object References (cluster).ctl" Type="VI" URL="../Private VIs/GUI Object References (cluster).ctl"/>
 			<Item Name="Handled Error (cluster).ctl" Type="VI" URL="../Private VIs/Handled Error (cluster).ctl"/>
 			<Item Name="Module Data (cluster).ctl" Type="VI" URL="../Private VIs/Module Data (cluster).ctl"/>
 			<Item Name="Read-Unread Status (enum).ctl" Type="VI" URL="../Private VIs/Read-Unread Status (enum).ctl"/>
@@ -123,7 +125,7 @@
 			<Item Name="Close Window.vi" Type="VI" URL="../Private VIs/Close Window.vi"/>
 			<Item Name="Init Modal Window.vi" Type="VI" URL="../Private VIs/Init Modal Window.vi"/>
 			<Item Name="Is EXE.vi" Type="VI" URL="../Private VIs/Is EXE.vi"/>
-			<Item Name="Show Front Panel (private).vi" Type="VI" URL="../Private VIs/Show Front Panel (private).vi"/>
+			<Item Name="Show Front Panel.vi" Type="VI" URL="../Private VIs/Show Front Panel.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Public API VIs" Type="Folder">
