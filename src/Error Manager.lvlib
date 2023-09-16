@@ -146,10 +146,8 @@
 	</Item>
 	<Item Name="Testers" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Simple Tester" Type="Folder">
-			<Item Name="Simple Tester.vi" Type="VI" URL="../Testers/Simple Tester/Simple Tester.vi"/>
-		</Item>
 		<Item Name="Anti-Spam Tester (AST).lvlib" Type="Library" URL="../Testers/Anti-Spam Tester/Anti-Spam Tester (AST).lvlib"/>
+		<Item Name="Simple Tester.lvclass" Type="LVClass" URL="../Testers/Simple Tester/Simple Tester.lvclass"/>
 	</Item>
 	<Item Name="Error Manager (Main).vi" Type="VI" URL="../Error Manager (Main).vi"/>
 </Library>
