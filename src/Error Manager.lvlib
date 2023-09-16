@@ -63,11 +63,11 @@
 			<Item Name="Dialogue - No Error Log File Exists.vi" Type="VI" URL="../Private VIs/Dialogue - No Error Log File Exists.vi"/>
 			<Item Name="Ensure Error Logs Folder Is Valid.vi" Type="VI" URL="../Private VIs/Ensure Error Logs Folder Is Valid.vi"/>
 			<Item Name="Get Error Type.vi" Type="VI" URL="../Private VIs/Get Error Type.vi"/>
-			<Item Name="Get Handled Errors In Chronological Order.vi" Type="VI" URL="../Get Handled Errors In Chronological Order.vi"/>
-			<Item Name="Get Handled Errors In Display Order.vi" Type="VI" URL="../Get Handled Errors In Display Order.vi"/>
+			<Item Name="Get Handled Errors In Chronological Order.vi" Type="VI" URL="../Private VIs/Get Handled Errors In Chronological Order.vi"/>
+			<Item Name="Get Handled Errors In Display Order.vi" Type="VI" URL="../Private VIs/Get Handled Errors In Display Order.vi"/>
 			<Item Name="Get Row Indexes Of Unread Errors.vi" Type="VI" URL="../Private VIs/Get Row Indexes Of Unread Errors.vi"/>
 			<Item Name="Init GUI Objects.vi" Type="VI" URL="../Private VIs/Init GUI Objects.vi"/>
-			<Item Name="Mark Selected Error As Read.vi" Type="VI" URL="../Mark Selected Error As Read.vi"/>
+			<Item Name="Mark Selected Error As Read.vi" Type="VI" URL="../Private VIs/Mark Selected Error As Read.vi"/>
 			<Item Name="Module Data - Append Newly Handled Error.vi" Type="VI" URL="../Private VIs/Module Data - Append Newly Handled Error.vi"/>
 		</Item>
 		<Item Name="Module Data" Type="Folder">
@@ -114,8 +114,8 @@
 			</Item>
 		</Item>
 		<Item Name="Throw Errors" Type="Folder">
-			<Item Name="Throw Error (no overwrite).vi" Type="VI" URL="../Private VIs/Throw Error (no overwrite).vi"/>
 			<Item Name="Throw Error - Queue Already Exists.vi" Type="VI" URL="../Private VIs/Throw Error - Queue Already Exists.vi"/>
+			<Item Name="Throw Error.vi" Type="VI" URL="../Private VIs/Throw Error.vi"/>
 		</Item>
 		<Item Name="Window Actions" Type="Folder">
 			<Item Name="Close Front Panel.vi" Type="VI" URL="../Private VIs/Close Front Panel.vi"/>
@@ -127,6 +127,8 @@
 		</Item>
 		<Item Name="Error Display Window.lvclass" Type="LVClass" URL="../Error Display Window/Error Display Window.lvclass"/>
 		<Item Name="Error Log.lvclass" Type="LVClass" URL="../Error Log/Error Log.lvclass"/>
+		<Item Name="OpenG VIs.lvclass" Type="LVClass" URL="../OpenG VIs/OpenG VIs.lvclass"/>
+		<Item Name="Settings.lvclass" Type="LVClass" URL="../Settings/Settings.lvclass"/>
 	</Item>
 	<Item Name="Public API VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
