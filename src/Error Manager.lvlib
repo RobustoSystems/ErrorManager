@@ -90,18 +90,18 @@
 			<Item Name="Unhandled Error (cluster).ctl" Type="VI" URL="../Private VIs/Unhandled Error (cluster).ctl"/>
 			<Item Name="Write One-Second Interval Message.vi" Type="VI" URL="../Private VIs/Write One-Second Interval Message.vi"/>
 		</Item>
-		<Item Name="Pop-up New Error Dialogue?" Type="Folder">
-			<Item Name="Decide Whether To Pop-up New Error Dialogue.vi" Type="VI" URL="../Private VIs/Decide Whether To Pop-up New Error Dialogue.vi"/>
+		<Item Name="Popup (Show) Error Window?" Type="Folder">
+			<Item Name="Decide Whether To Show The Error Window.vi" Type="VI" URL="../Private VIs/Decide Whether To Show The Error Window.vi"/>
 		</Item>
 		<Item Name="Queues" Type="Folder">
-			<Item Name="&quot;Log To File&quot; Loop Queue" Type="Folder">
-				<Item Name="Log To File Loop Queue.lvclass" Type="LVClass" URL="../Queues/Log To File Loop Queue/Log To File Loop Queue.lvclass"/>
-			</Item>
-			<Item Name="&quot;New Error Window&quot; Loop Queue" Type="Folder">
-				<Item Name="Enqueue into &quot;New Error Window&quot; Loop Queue" Type="Folder">
-					<Item Name="Pop-up New Error Window.vi" Type="VI" URL="../Private VIs/Pop-up New Error Window.vi"/>
+			<Item Name="&quot;Error Window&quot; Loop Queue" Type="Folder">
+				<Item Name="Enqueue into &quot;Error Window&quot; Loop Queue" Type="Folder">
+					<Item Name="Enqueue - Show Error Window.vi" Type="VI" URL="../Private VIs/Enqueue - Show Error Window.vi"/>
 				</Item>
 				<Item Name="New Error Window Loop Queue.lvclass" Type="LVClass" URL="../Queues/New Error Window Loop Queue/New Error Window Loop Queue.lvclass"/>
+			</Item>
+			<Item Name="&quot;Log To File&quot; Loop Queue" Type="Folder">
+				<Item Name="Log To File Loop Queue.lvclass" Type="LVClass" URL="../Queues/Log To File Loop Queue/Log To File Loop Queue.lvclass"/>
 			</Item>
 			<Item Name="MHL Queue" Type="Folder">
 				<Item Name="_Note: MHL = Message Handling Loop" Type="Folder"/>
@@ -137,8 +137,8 @@
 			<Item Name="API - Config Button - No Error.vi" Type="VI" URL="../Public API VIs/API - Config Button - No Error.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
-			<Item Name="Pop-up New Error Dialogue Instruction (enum).ctl" Type="VI" URL="../Public API VIs/Pop-up New Error Dialogue Instruction (enum).ctl"/>
-			<Item Name="Pop-up New Error Dialogue Setting (enum).ctl" Type="VI" URL="../Public API VIs/Pop-up New Error Dialogue Setting (enum).ctl"/>
+			<Item Name="_TBD Pop-up New Error Dialogue Setting (enum).ctl" Type="VI" URL="../Public API VIs/_TBD Pop-up New Error Dialogue Setting (enum).ctl"/>
+			<Item Name="Show Error Window Instruction (enum).ctl" Type="VI" URL="../Public API VIs/Show Error Window Instruction (enum).ctl"/>
 		</Item>
 		<Item Name="API - Close Module.vi" Type="VI" URL="../Public API VIs/API - Close Module.vi"/>
 		<Item Name="API - Handle Error.vi" Type="VI" URL="../Public API VIs/API - Handle Error.vi"/>
