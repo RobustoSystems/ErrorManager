@@ -43,16 +43,7 @@
 			<Item Name="Display Order Combo Box.lvclass" Type="LVClass" URL="../Display Order Combo Box/Display Order Combo Box.lvclass"/>
 			<Item Name="Mark All Errors As Read Button.lvclass" Type="LVClass" URL="../Mark All Errors As Read Button/Mark All Errors As Read Button.lvclass"/>
 			<Item Name="Mark Selected Errors As Read Button.lvclass" Type="LVClass" URL="../Mark Selected Errors As Read Button/Mark Selected Errors As Read Button.lvclass"/>
-		</Item>
-		<Item Name="MCL (to refactor as static class)" Type="Folder">
-			<Item Name="Init MCL.vi" Type="VI" URL="../Private VIs/Init MCL.vi"/>
-			<Item Name="MCL - Get Selected Rows.vi" Type="VI" URL="../Private VIs/MCL - Get Selected Rows.vi"/>
-			<Item Name="MCL - Set Row Background Colour - Read.vi" Type="VI" URL="../Private VIs/MCL - Set Row Background Colour - Read.vi"/>
-			<Item Name="MCL - Set Row Background Colour - Unread.vi" Type="VI" URL="../Private VIs/MCL - Set Row Background Colour - Unread.vi"/>
-			<Item Name="MCL - Set Row Background Colour.vi" Type="VI" URL="../Private VIs/MCL - Set Row Background Colour.vi"/>
-			<Item Name="MCL Selected Rows (enum).ctl" Type="VI" URL="../Private VIs/MCL Selected Rows (enum).ctl"/>
-			<Item Name="Refresh MCL (action).vi" Type="VI" URL="../Private VIs/Refresh MCL (action).vi"/>
-			<Item Name="Set MCL Column Widths.vi" Type="VI" URL="../Private VIs/Set MCL Column Widths.vi"/>
+			<Item Name="MCL.lvclass" Type="LVClass" URL="../Multi-Column Listbox/MCL.lvclass"/>
 		</Item>
 		<Item Name="Misc" Type="Folder">
 			<Item Name="Clear Error 1149.vi" Type="VI" URL="../Private VIs/Clear Error 1149.vi"/>
@@ -121,7 +112,7 @@
 			<Item Name="Close Front Panel.vi" Type="VI" URL="../Private VIs/Close Front Panel.vi"/>
 			<Item Name="Close Window Option (Enum).ctl" Type="VI" URL="../Private VIs/Close Window Option (Enum).ctl"/>
 			<Item Name="Close Window.vi" Type="VI" URL="../Private VIs/Close Window.vi"/>
-			<Item Name="Init Modal Window.vi" Type="VI" URL="../Private VIs/Init Modal Window.vi"/>
+			<Item Name="Init Error Window.vi" Type="VI" URL="../Private VIs/Init Error Window.vi"/>
 			<Item Name="Is EXE.vi" Type="VI" URL="../Private VIs/Is EXE.vi"/>
 			<Item Name="Show Front Panel.vi" Type="VI" URL="../Private VIs/Show Front Panel.vi"/>
 		</Item>
@@ -137,7 +128,6 @@
 			<Item Name="API - Config Button - No Error.vi" Type="VI" URL="../Public API VIs/API - Config Button - No Error.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
-			<Item Name="_TBD Pop-up New Error Dialogue Setting (enum).ctl" Type="VI" URL="../Public API VIs/_TBD Pop-up New Error Dialogue Setting (enum).ctl"/>
 			<Item Name="Show Error Window Instruction (enum).ctl" Type="VI" URL="../Public API VIs/Show Error Window Instruction (enum).ctl"/>
 		</Item>
 		<Item Name="API - Close Module.vi" Type="VI" URL="../Public API VIs/API - Close Module.vi"/>
