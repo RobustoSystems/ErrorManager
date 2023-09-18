@@ -64,5 +64,6 @@
 			<Item Name="Spam Mode (enum).ctl" Type="VI" URL="../Spam Mode (enum).ctl"/>
 		</Item>
 	</Item>
+	<Item Name="Anti-Spam Tester Error Manager Settings.ini" Type="Document" URL="../Anti-Spam Tester Error Manager Settings.ini"/>
 	<Item Name="Anti-Spam Tester.vi" Type="VI" URL="../Anti-Spam Tester.vi"/>
 </Library>

@@ -148,5 +148,6 @@
 		</Item>
 	</Item>
 	<Item Name="Error Manager (Main).vi" Type="VI" URL="../Error Manager (Main).vi"/>
+	<Item Name="Error Manager Settings.ini" Type="Document" URL="../Error Manager Settings.ini"/>
 	<Item Name="VI Tree.vi" Type="VI" URL="../Public API VIs/VI Tree.vi"/>
 </Library>
