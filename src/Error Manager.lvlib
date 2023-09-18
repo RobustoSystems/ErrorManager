@@ -133,18 +133,19 @@
 	</Item>
 	<Item Name="Public API VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
-		<Item Name="Configure Button" Type="Folder">
+		<Item Name="(Optional) Configure &quot;Error/No Error&quot; Button" Type="Folder">
 			<Item Name="API - Config Button - Error.vi" Type="VI" URL="../Public API VIs/API - Config Button - Error.vi"/>
 			<Item Name="API - Config Button - No Error.vi" Type="VI" URL="../Public API VIs/API - Config Button - No Error.vi"/>
+		</Item>
+		<Item Name="Main API VIs" Type="Folder">
+			<Item Name="API - Close Module.vi" Type="VI" URL="../Public API VIs/API - Close Module.vi"/>
+			<Item Name="API - Handle Error.vi" Type="VI" URL="../Public API VIs/API - Handle Error.vi"/>
+			<Item Name="API - Have All Errors Been Read.vi" Type="VI" URL="../Public API VIs/API - Have All Errors Been Read.vi"/>
+			<Item Name="API - Show Front Panel.vi" Type="VI" URL="../Public API VIs/API - Show Front Panel.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Show Error Window Instruction (enum).ctl" Type="VI" URL="../Public API VIs/Show Error Window Instruction (enum).ctl"/>
 		</Item>
-		<Item Name="API - Close Module.vi" Type="VI" URL="../Public API VIs/API - Close Module.vi"/>
-		<Item Name="API - Handle Error.vi" Type="VI" URL="../Public API VIs/API - Handle Error.vi"/>
-		<Item Name="API - Have All Errors Been Read.vi" Type="VI" URL="../Public API VIs/API - Have All Errors Been Read.vi"/>
-		<Item Name="API - Show Front Panel.vi" Type="VI" URL="../Public API VIs/API - Show Front Panel.vi"/>
-		<Item Name="API - VI Tree.vi" Type="VI" URL="../Public API VIs/API - VI Tree.vi"/>
 	</Item>
 	<Item Name="Testers" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -152,4 +153,5 @@
 		<Item Name="Simple Tester.lvclass" Type="LVClass" URL="../Testers/Simple Tester/Simple Tester.lvclass"/>
 	</Item>
 	<Item Name="Error Manager (Main).vi" Type="VI" URL="../Error Manager (Main).vi"/>
+	<Item Name="VI Tree.vi" Type="VI" URL="../Public API VIs/VI Tree.vi"/>
 </Library>
