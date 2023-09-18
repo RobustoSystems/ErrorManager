@@ -51,6 +51,8 @@
 		</Item>
 		<Item Name="Misc" Type="Folder">
 			<Item Name="Clear Error 1149.vi" Type="VI" URL="../Private VIs/Clear Error 1149.vi"/>
+			<Item Name="Consolidate Whitespace Lines in Reported Error Message.vi" Type="VI" URL="../Private VIs/Consolidate Whitespace Lines in Reported Error Message.vi"/>
+			<Item Name="Consolidate Whitespace Text Lines.vi" Type="VI" URL="../Private VIs/Consolidate Whitespace Text Lines.vi"/>
 			<Item Name="Convert Error to MCL ItemName.vi" Type="VI" URL="../Private VIs/Convert Error to MCL ItemName.vi"/>
 			<Item Name="Convert Errors to MCL ItemNames.vi" Type="VI" URL="../Private VIs/Convert Errors to MCL ItemNames.vi"/>
 			<Item Name="Convert Number of Seconds to Running Time.vi" Type="VI" URL="../Private VIs/Convert Number of Seconds to Running Time.vi"/>
