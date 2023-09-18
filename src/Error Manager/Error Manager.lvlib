@@ -147,11 +147,6 @@
 			<Item Name="Show Error Window Instruction (enum).ctl" Type="VI" URL="../Public API VIs/Show Error Window Instruction (enum).ctl"/>
 		</Item>
 	</Item>
-	<Item Name="Testers" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Anti-Spam Tester (AST).lvlib" Type="Library" URL="../Testers/Anti-Spam Tester/Anti-Spam Tester (AST).lvlib"/>
-		<Item Name="Simple Tester.lvclass" Type="LVClass" URL="../Testers/Simple Tester/Simple Tester.lvclass"/>
-	</Item>
 	<Item Name="Error Manager (Main).vi" Type="VI" URL="../Error Manager (Main).vi"/>
 	<Item Name="VI Tree.vi" Type="VI" URL="../Public API VIs/VI Tree.vi"/>
 </Library>

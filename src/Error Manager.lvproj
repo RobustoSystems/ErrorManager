@@ -13,7 +13,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Error Manager.lvlib" Type="Library" URL="../Error Manager.lvlib"/>
+		<Item Name="Testers" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="Simple Tester.lvclass" Type="LVClass" URL="../Testers/Simple Tester/Simple Tester.lvclass"/>
+			<Item Name="Anti-Spam Tester (AST).lvlib" Type="Library" URL="../Testers/Anti-Spam Tester/Anti-Spam Tester (AST).lvlib"/>
+		</Item>
+		<Item Name="Error Manager.lvlib" Type="Library" URL="../Error Manager/Error Manager.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
