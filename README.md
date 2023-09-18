@@ -10,5 +10,8 @@ The Error Manager is a stand-alone, asynchronous LabVIEW module that can help lo
 By default, when an error is reported to the Error Manager the Error Window seen below is displayed (popped-up). This behaviour can be disabled, such that no window pops up and the error is dealt with silently.
 ![image](https://github.com/RobustoSystems/ErrorManager/assets/34945974/fc749d1e-9fdf-4336-98e1-9e9252b718b9)
 
-By default, when an error is reported to the Error Manager, the Error Manager logs the error details to an Error Log file. This behaviour can be disabled, such that no log file is produced. The log file is a plain text file.
+By default, when an error is reported to the Error Manager, the Error Manager logs the error details to an Error Log file. A typical log file is shown below. This behaviour can be disabled, such that no log file is produced. The log file is a plain text file.
 ![image](https://github.com/RobustoSystems/ErrorManager/assets/34945974/d9a7e1eb-cd25-49aa-ba23-f07588651347)
+
+The behaviour of the Error Manager can be tailored by changing the settings values stored in the Settings file. The contents of the default settings file are shown below. By default, this settings file is named "Error Manager Settings.ini", but it can be renamed.
+![image](https://github.com/RobustoSystems/ErrorManager/assets/34945974/3cf581e1-902e-4834-8809-b1e7d4e526c5)
