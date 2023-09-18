@@ -44,6 +44,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
 		</Item>
+		<Item Name="Random Number (Range) U32.vi" Type="VI" URL="../Random Number (Range) U32.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"6!!!!"!!.1!=!"GZV&lt;7*F=A!!%5!(!!NM&lt;X&gt;F=C"C&lt;X6O:!!21!=!#X6Q='6S)'*P&gt;7ZE!"Y!]!!$!!!!!1!#!A!!%!!!#1!!!"!!!!!1!!!!!!%!!Q!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">32</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">8400896</Property>
+		</Item>
 	</Item>
 	<Item Name="Simple Tester Error Manager Settings.ini" Type="Document" URL="../Simple Tester Error Manager Settings.ini"/>
 	<Item Name="Simple Tester.vi" Type="VI" URL="../Simple Tester.vi">

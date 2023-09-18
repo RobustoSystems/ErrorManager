@@ -69,6 +69,7 @@
 			<Item Name="Get Timestamp Text.vi" Type="VI" URL="../Private VIs/Get Timestamp Text.vi"/>
 			<Item Name="Mark Selected Error As Read.vi" Type="VI" URL="../Private VIs/Mark Selected Error As Read.vi"/>
 			<Item Name="Module Data - Append Newly Handled Error.vi" Type="VI" URL="../Private VIs/Module Data - Append Newly Handled Error.vi"/>
+			<Item Name="Random Number (Range) U32.vi" Type="VI" URL="../Private VIs/Random Number (Range) U32.vi"/>
 			<Item Name="Replace all instances of given substring.vi" Type="VI" URL="../Private VIs/Replace all instances of given substring.vi"/>
 		</Item>
 		<Item Name="Module Data" Type="Folder">
