@@ -62,9 +62,11 @@
 			<Item Name="Ensure Error Logs Folder Is Valid.vi" Type="VI" URL="../Private VIs/Ensure Error Logs Folder Is Valid.vi"/>
 			<Item Name="Format Timestamp Into String (ms resolution).vi" Type="VI" URL="../Private VIs/Format Timestamp Into String (ms resolution).vi"/>
 			<Item Name="Get Error Type.vi" Type="VI" URL="../Private VIs/Get Error Type.vi"/>
+			<Item Name="Get Full Error Details Text.vi" Type="VI" URL="../Private VIs/Get Full Error Details Text.vi"/>
 			<Item Name="Get Handled Errors In Chronological Order.vi" Type="VI" URL="../Private VIs/Get Handled Errors In Chronological Order.vi"/>
 			<Item Name="Get Handled Errors In Display Order.vi" Type="VI" URL="../Private VIs/Get Handled Errors In Display Order.vi"/>
 			<Item Name="Get Row Indexes Of Unread Errors.vi" Type="VI" URL="../Private VIs/Get Row Indexes Of Unread Errors.vi"/>
+			<Item Name="Get Timestamp Text.vi" Type="VI" URL="../Private VIs/Get Timestamp Text.vi"/>
 			<Item Name="Mark Selected Error As Read.vi" Type="VI" URL="../Private VIs/Mark Selected Error As Read.vi"/>
 			<Item Name="Module Data - Append Newly Handled Error.vi" Type="VI" URL="../Private VIs/Module Data - Append Newly Handled Error.vi"/>
 			<Item Name="Replace all instances of given substring.vi" Type="VI" URL="../Private VIs/Replace all instances of given substring.vi"/>
