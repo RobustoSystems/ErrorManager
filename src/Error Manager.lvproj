@@ -19,6 +19,7 @@
 			<Item Name="Anti-Spam Tester (AST).lvlib" Type="Library" URL="../Testers/Anti-Spam Tester/Anti-Spam Tester (AST).lvlib"/>
 		</Item>
 		<Item Name="Error Manager.lvlib" Type="Library" URL="../Error Manager/Error Manager.lvlib"/>
+		<Item Name="EULA (MIT License).txt" Type="Document" URL="../EULA (MIT License).txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
