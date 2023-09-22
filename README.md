@@ -15,3 +15,13 @@ By default, when an error is reported to the Error Manager, the Error Manager lo
 
 The behaviour of the Error Manager can be tailored by changing the settings values stored in the Settings file. The contents of the default settings file are shown below. By default, this settings file is named "Error Manager Settings.ini", but it can be renamed.
 ![image](https://github.com/RobustoSystems/ErrorManager/assets/34945974/3cf581e1-902e-4834-8809-b1e7d4e526c5)
+
+## Development Environment
+The Error Manager codebase is written in LabVIEW 2023 Q3 (32-bit).
+
+## Process to build and publish the VI Package
+1. The LabVIEW project is "Saved for previous..." for LabVIEW version 2016.
+2. The 2016 version of the files is used as the source folder for the VI package.
+3. The VI package is uploaded to https://www.vipm.io/
+
+At the moment the process to build and publish the VIPM package is completely manual. A future improvement would be for this process to be automated.
